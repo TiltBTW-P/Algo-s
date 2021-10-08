@@ -1,0 +1,16 @@
+---Free Agency Decider---
+1. Offer: --Whoever gave more money-- =  2 points
+
+2. Flexibility: --Po, To-- if po + 0.5 points if To = - 0.5 points
+
+3. Option (Only for 55+ ovr players) --What best player is he on the team-- Highest + 0.5 points
+
+4. Moods
+
+If fame option boost = 0.5 points
+
+If Loyalty more likely to sign with old team = 0.5 points boost (if offered by old team)
+
+If Money more likely to sign with team who gives more money = 0.5 points boost
+
+If winning 

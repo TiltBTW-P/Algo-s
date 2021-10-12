@@ -13,4 +13,8 @@ If Loyalty more likely to sign with old team = 0.5 points boost (if offered by o
 
 If Money more likely to sign with team who gives more money = 0.5 points boost
 
-If winning 
+If winning more likely to sign with better team in PR = 0.5 boost
+
+(if player has 2-4 moods add points up)
+
+
